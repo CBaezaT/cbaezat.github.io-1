@@ -9,7 +9,9 @@ tags:
   - readability
   - standard
   - Portafolio
+ layout: single
  classes: wide
+ 
 ---
 # Transcripción de audios automática  v1
 _Por Cristian Baeza T_  
