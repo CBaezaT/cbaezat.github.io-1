@@ -7,7 +7,8 @@ tags:
   - Post Formats
   - readability
   - standard
-
+layout: single
+classes: wide
  
 ---
 # Transcripción de audios automática  v1
