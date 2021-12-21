@@ -11,7 +11,7 @@ layout: single
 classes: wide
 ---
 
-# Hola 
+Hola 
 
 a
 
