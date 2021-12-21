@@ -9,9 +9,9 @@ tags:
   - standard
 layout: single
 classes: wide
-
 ---
-## Hola 
+
+# Hola 
 
 a
 
