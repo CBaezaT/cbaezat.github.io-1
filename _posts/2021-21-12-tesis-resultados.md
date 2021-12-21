@@ -9,7 +9,9 @@ tags:
   - standard
 layout: single
 classes: wide
----
 
-{% include fig1.html % }
+---
+## Hola 
+
+{% include fig1.html %}
 
