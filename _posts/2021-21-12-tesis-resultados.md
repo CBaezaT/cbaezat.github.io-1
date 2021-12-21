@@ -11,3 +11,5 @@ layout: single
 classes: wide
 ---
 
+{% include fig1.html % }
+
