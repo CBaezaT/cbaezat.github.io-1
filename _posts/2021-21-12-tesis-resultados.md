@@ -14,4 +14,3 @@ classes: wide
 ## Hola 
 
 {% include fig1.html %}
-
