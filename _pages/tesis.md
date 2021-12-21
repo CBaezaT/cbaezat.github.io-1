@@ -4,10 +4,6 @@ layout: single
 permalink: /tesis
 author_profile: true
 ---
-## Hola 
-  
-    
-     
-     
-{% include fig1.html %}  
+
+{% include fig1.html %}
 
