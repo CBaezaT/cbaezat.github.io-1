@@ -11,5 +11,5 @@ author_profile: true
 
 {% include fig3.html %}  
 
-
+{% include fig7.html %}  
 
