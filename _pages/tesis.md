@@ -15,7 +15,8 @@ author_profile: false
 # Linea de tiempo  
   
 ![linea de tiempo](/_includes/linea tesis.png)  
-
+  
+    
 
 {% include fig4.html %}  
 
