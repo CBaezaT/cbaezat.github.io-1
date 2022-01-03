@@ -15,7 +15,7 @@ author_profile: false
 
 Linea de tiempo  
    
-![](/_includes/linea-tesis.jpg)  
+![linea de tiempo](/assets/images/linea-tesis.jpg)  
   
 
   
