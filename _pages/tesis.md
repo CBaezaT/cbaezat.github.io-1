@@ -14,7 +14,7 @@ author_profile: false
 {% include fig7.html %}  
 # Linea de tiempo  
   
-![linea](/_includes/linea_tesis.png)  
+![linea](https://github.com/CBaezaT/cbaezat.github.io/blob/master/_includes/linea_tesis.png)  
   
     
 
