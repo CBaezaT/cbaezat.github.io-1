@@ -5,7 +5,8 @@ classes: wide
 permalink: /tesis/
 author_profile: false
 ---
-
+# Sindemia en Chile: Sindemia por COVID-19, enfermedades crónicas no transmisibles y vulnerabilidades socioeconómicas
+## Un modelo biocultural para entender la crisis sanitaria.
 _Memoria para optar al título profesional de Antropología con mención en Antropología Física en la Universidad de Concepción_  
 En esta página disponemos de los resultados gráficos de nuestra memoria de título, las bases de datos están disponibles en nuestro [repositorio] (https://github.com/CBaezaT/Tesis-Baeza-Rubilar). 
   
