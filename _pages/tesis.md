@@ -1,6 +1,6 @@
 ---
 title: "Tesis datos v1"
-layout: single
+layout: wide
 classes: wide
 permalink: /tesis/
 author_profile: false
