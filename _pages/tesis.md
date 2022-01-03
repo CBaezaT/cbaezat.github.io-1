@@ -13,6 +13,7 @@ author_profile: false
 
 {% include fig7.html %}  
 # Linea de tiempo  
+  
 ![](_includes/linea tesis.png)  
 
 
