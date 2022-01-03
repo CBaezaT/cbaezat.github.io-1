@@ -5,7 +5,9 @@ classes: wide
 permalink: /tesis/
 author_profile: false
 ---
-  
+# Resultados memoria de título Cristian Baeza y Florencia Rubilar  
+_Memoria para optar al título profesional de Antropología con mención en Antropología Física_  
+En esta página disponemos de los resultados gráficos de nuestra memoria de título, las bases de datos están disponibles en nuestro [repositorio] (https://github.com/CBaezaT/Tesis-Baeza-Rubilar). 
   
 {% include fig1.html %}  
 
