@@ -14,13 +14,8 @@ author_profile: false
 {% include fig7.html %}  
 
 Linea de tiempo  
-   
 ![linea de tiempo](/assets/images/linea-tesis.jpg)  
   
-
-  
-    
-
 {% include fig4.html %}  
 
 {% include fig5.html %}  
