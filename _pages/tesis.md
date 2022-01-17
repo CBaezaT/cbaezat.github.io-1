@@ -9,7 +9,7 @@ author_profile: false
 ### Un modelo biocultural para entender la crisis sanitaria.  
 _Memoria para optar al título profesional de Antropología con mención en Antropología Física en la Universidad de Concepción_   
   
-  Nuestra memoria trata de identificar la crisis sanitaria dentro de un modelo de sindemia, donde existe **co-presencia** y **sinergia**  entre COVID-19, un conjunto de enfermedades crónicas no transmisibles y desigualdades y vulnerabilidades socioeconómicas.   
+  Nuestra memoria trata de identificar la crisis sanitaria dentro de un modelo de sindemia, donde existe **co-presencia** y **sinergia**  entre COVID-19, un conjunto de enfermedades crónicas no transmisibles y desigualdades y vulnerabilidades socioeconómicas, desde el comienzo de la pandemia en Chile el 3 de marzo 2020 hasta el fin del estado de exepción constitucional de catástrofe el 30 de septiembre de 2021.   
 
 Dentro de nuestros principales hallazgos se encuentran:  
 + El modelo de   sindemia permite abordar y comprender la crisis sanitaria causada por COVID-19 en Chile en relación con enfermedades crónicas no transmisibles y situaciones de vulnerabilidad y disparidad, descomponiendola en estas tres dimensiones.  
