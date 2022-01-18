@@ -25,7 +25,7 @@ En esta página disponemos de los resultados gráficos de nuestra memoria de tí
 {% include fig7.html %}  
 
 Linea de tiempo  
-![linea de tiempo](/assets/images/linea-tesis.jpg)  
+![linea de tiempo](/assets/images/linea-tesis.png)  
   
 {% include fig4.html %}  
 
