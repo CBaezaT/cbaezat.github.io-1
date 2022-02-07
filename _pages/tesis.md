@@ -3,7 +3,7 @@ title: "Resultados memoria de título Cristian Baeza y Florencia Rubilar"
 layout: single
 classes: wide
 permalink: /tesis/
-author_profile: false
+author_profile: True
 ---
 ## Sindemia en Chile: Sindemia por COVID-19, enfermedades crónicas no transmisibles y vulnerabilidades socioeconómicas
 ### Un modelo biocultural para entender la crisis sanitaria.  
