@@ -60,9 +60,8 @@ plugins:
 author:
   name   : "Cristian Baeza"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hola, soy Cristian Baeza Torres, Antropólogo con Mención Física UdeC.  
-  De Concepción, Chile.  
-  Puedes ver los resultados de mi memoría de título [_aquí_](https://cbaezat.github.io)"
+  bio    : "Hola, soy Cristian Baeza Torres, Antropólogo con Mención Física de la Universidad de Concepción.
+  Concepción, Chile."
   links:
    # - label: "Website"
     #  icon: "fas fa-fw fa-link"
