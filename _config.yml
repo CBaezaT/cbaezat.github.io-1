@@ -63,9 +63,9 @@ author:
   bio    : "Hola, soy Cristian Baeza Torres, Antropólogo con Mención Física UdeC. De 
  Concepción, Chile. Puedes ver los resultados de mi memoría de título [aquí](https://cbaezat.github.io)"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+   # - label: "Website"
+    #  icon: "fas fa-fw fa-link"
+   #   url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/CrisBaeza_13"
