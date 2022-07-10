@@ -1,5 +1,5 @@
 ---
-title: "Transcripción de audios a texto en Python"
+title: Transcripción de audios a texto en Python
 date: 2021-09-15T17:12:30-04:00
 categories:
   - Blog
