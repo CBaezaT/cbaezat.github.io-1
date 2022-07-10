@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Inicio"
+    url: /
   - title: "Tesis"
     url: /tesis/
+  - title: "Archivo"
+    url: /posts/ 
   - title: "Sobre mí"
     url: /about/
