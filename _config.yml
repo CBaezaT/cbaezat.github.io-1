@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Concepción, Chile. 
 twitter_username: CrisBaeza_13
 github_username: CBaezaT
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "contrast"
 search: true
 
 # Build settings
