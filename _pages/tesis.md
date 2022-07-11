@@ -4,6 +4,7 @@ layout: single
 classes: wide
 permalink: /tesis/
 author_profile: true
+$link-color: red;
 ---
 ## Sindemia en Chile: Sindemia por COVID-19, enfermedades crónicas no transmisibles y vulnerabilidades socioeconómicas
 ### Un modelo biocultural para entender la crisis sanitaria.  
