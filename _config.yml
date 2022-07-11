@@ -121,5 +121,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-/* type scale */
-$link-color: red;
